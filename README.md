@@ -1,3 +1,8 @@
+Additional references: 
+
+https://themeforest.net/item/bucker-bakery-shop-html-template/33361768
+
+
 # [Start Bootstrap - Shop Homepage](https://startbootstrap.com/template/shop-homepage/)
 
 [Shop Homepage](https://startbootstrap.com/template/shop-homepage/) is a basic HTML online store homepage template for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/).
