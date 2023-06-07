@@ -2,6 +2,9 @@ Additional references:
 
 https://themeforest.net/item/bucker-bakery-shop-html-template/33361768
 
+Free back end hosting
+https://vercel.com/pricing
+https://www.cyclic.sh/pricing
 
 # [Start Bootstrap - Shop Homepage](https://startbootstrap.com/template/shop-homepage/)
 
